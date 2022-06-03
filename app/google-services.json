@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "757282828327",
+    "firebase_url": "https://anomal-browser-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "anomal-browser",
+    "storage_bucket": "anomal-browser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757282828327:android:76cb2fa07d2119a8501e02",
+        "android_client_info": {
+          "package_name": "com.example.anomalbrowser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757282828327-5jvdcg7fq26r7ulv4jss598rrhoft5kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcveXVqHievXv_bnA2KYtuXPxQ5QUZTwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757282828327-5jvdcg7fq26r7ulv4jss598rrhoft5kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
